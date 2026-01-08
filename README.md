@@ -1,2 +1,2 @@
 # Delta
-learning github
+learning github.
